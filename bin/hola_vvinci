@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'hola_vvinci'
+puts HolaVvinci.hi(ARGV[0])
